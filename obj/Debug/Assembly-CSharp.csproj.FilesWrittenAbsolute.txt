@@ -1,0 +1,17 @@
+/Users/taterbase/Workspace/Danktris/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/taterbase/Workspace/Danktris/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/taterbase/Workspace/Danktris/obj/Debug/Assembly-CSharp.dll
+/Users/taterbase/Workspace/Danktris/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/taterbase/Workspace/Danktris/Temp/bin/Debug/UnityEngine.dll
+/Users/taterbase/Workspace/Danktris/Temp/bin/Debug/UnityEditor.dll
+/Users/taterbase/Workspace/Danktris/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/taterbase/Workspace/Danktris/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/taterbase/Workspace/Danktris/Temp/bin/Debug/Mono.Cecil.dll
+/Users/taterbase/Workspace/Danktris/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/taterbase/Workspace/Danktris/Temp/bin/Debug/Unity.DataContract.dll
+/Users/taterbase/Workspace/Danktris/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/taterbase/Workspace/Danktris/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/taterbase/Workspace/Danktris/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/taterbase/Workspace/Danktris/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/taterbase/Workspace/Danktris/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/taterbase/Workspace/Danktris/Temp/bin/Debug/Mono.Cecil.Mdb.dll
